@@ -1,4 +1,6 @@
 ---
+#I uploaded 7 image for test.
+#Each of them has their URL, and empty text string for incoming packet, is_contain for outgoing packet
 - title: 'First_Image'
   url: 'https://github.com/iremozturk/REST-Server-with-OCR/blob/main/ppocr_img/imgs_en/254.jpg'
   cover: './254.jpeg'
